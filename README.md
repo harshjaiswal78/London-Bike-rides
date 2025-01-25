@@ -1,3 +1,7 @@
+
+![002sf4293ridelondon](https://github.com/user-attachments/assets/61dc533a-349a-42e4-9262-ea7d53868d37)
+
+
 # 🚴‍♀️ London Bike Rides Analysis
 
 📊 **London Bike Rides Analysis**  
